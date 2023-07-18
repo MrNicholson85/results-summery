@@ -1,0 +1,21 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@font-face {
+    font-family: grotesk-med;
+    src: local("grotesk-med"),
+        url(../font/HankenGrotesk-Medium.ttf)
+}
+
+@font-face {
+    font-family: grotesk-bold;
+    src: local("grotesk-bold"),
+        url(../font/HankenGrotesk-Bold.ttf)
+}
+
+@font-face {
+    font-family: grotesk-extra-bold;
+    src: local("grotesk-extra-bold"),
+        url(../font/HankenGrotesk-ExtraBold.ttf)
+}
